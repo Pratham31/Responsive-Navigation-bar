@@ -2,7 +2,9 @@
 Here you will get smooth responsive navigation bar using GSAP
 
 1.Copy the entire html and css code in your favourite IDE.
+
 2.It doesn't require to install GSAP.I have include its script in the givem html code
+
 3.Hope it works for you :)
 
 
